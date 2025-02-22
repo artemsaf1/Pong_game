@@ -17,6 +17,7 @@ gcc -Wall -Werror -Wextra src/pong.c -o src/pong
 После ввода имён начнется игра.  
 
 <img width="1440" alt="Снимок экрана 2025-02-22 в 21 34 05" src="https://github.com/user-attachments/assets/ae643c88-afd4-4853-b671-3fe68d763204" />
+
 Управления:  
 Игрок 1 или ракетка слева:  
 "a" - ракетка вверх  
